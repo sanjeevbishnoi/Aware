@@ -1,9 +1,9 @@
 # Aware: Breathe Focused Meditation App
-Breathing plays a very important role in our life. Not only it keeps you alive but control and depth of breathing define your personality also. Like if you are a deep breather it helps you to get rid of anxiety and depression.
-Few breaths before facing an interview or public speaking make you calm and make your voice much clear.
+<p>Breathing plays a very important role in our life. Not only it keeps you alive but control and depth of breathing define your personality also. Like if you are a deep breather it helps you to get rid of anxiety and depression.
+Few breaths before facing an interview or public speaking make you calm and make your voice much clear.<br/>
 I have gone through many apps but none of them was not what I was looking for. Most of those were hiding the main feature behind the paywall which was not affordable.
-Being a developer, Instead of paying for features, I decided to develop an app on weekend and successfully launched it on Google Play.
-I want you all to go through it and review it. If you have any kind of suggestion You are welcome to just email me on
+Being a developer, Instead of paying for features, I decided to develop an app on weekend and successfully launched it on Google Play.<br/>
+I want you all to go through it and review it. If you have any kind of suggestion You are welcome to just email me on</p><br/>
 er.sanjeevbishnoi@gmail.com
 
 Download it from the link below<br />
@@ -21,5 +21,5 @@ Download it from the link below<br />
   <img src="screenshots/fifth.png" width="256" hspace="4" />
   
 </p><br />
-_Google Play and the Google Play logo are trademarks of Google LLC._
+Google Play and the Google Play logo are trademarks of Google LLC.
 
