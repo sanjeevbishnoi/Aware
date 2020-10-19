@@ -6,6 +6,11 @@ Being a developer, Instead of paying for features, I decided to develop an app o
 I want you all to go through it and review it. If you have any kind of suggestion You are welcome to just email me on
 er.sanjeevbishnoi@gmail.com
 
+Download it from the link below
+<a href="https://play.google.com/store/apps/details?id=com.mogaero.aware"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="200"></a>
+_Google Play and the Google Play logo are trademarks of Google LLC._
+
+
 ## Screenshots
   <p align="center">
   <img src="screenshots/first.png" width="256" hspace="4" />
@@ -16,6 +21,3 @@ er.sanjeevbishnoi@gmail.com
   
 </p>
 
-Download it from the link below
-<a href="https://play.google.com/store/apps/details?id=com.mogaero.aware"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="200"></a>
-_Google Play and the Google Play logo are trademarks of Google LLC._
