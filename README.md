@@ -3,7 +3,7 @@
 Few breaths before facing an interview or public speaking make you calm and make your voice much clear.<br/>
 I have gone through many apps but none of them was not what I was looking for. Most of those were hiding the main feature behind the paywall which was not affordable.
 Being a developer, Instead of paying for features, I decided to develop an app on weekend and successfully launched it on Google Play.<br/>
-I want you all to go through it and review it. If you have any kind of suggestion You are welcome to just email me on er.sanjeevbishnoi@gmail.com </p>
+I want you all to go through it and review it. If you have any kind of suggestion You are welcome to just email me on <a href="mailto:er.sanjeevbishnoi@gmail.com">er.sanjeevbishnoi@gmail.com</a> </p>
 
 
 Download it from the link below<br />
